@@ -1,0 +1,18 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+#hlo{
+    color: chartreuse;
+    text-align: center;
+
+}
+.new{
+    color: darkblue;
+    text-align: center
+}
+#ext{
+    color: darkorange;
+    text-align: center;
+    text-decoration:underline;
+}

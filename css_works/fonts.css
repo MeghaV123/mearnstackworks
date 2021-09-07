@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+div{
+    border: 2px solid green;
+    font-family:'Poiret One', cursive;
+    background-color: hotpink;
+    width: 50%;
+}
+body{
+    background-color: khaki;
+    background-image: url(./);
+    background-size: cover;
+}

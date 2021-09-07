@@ -1,0 +1,27 @@
+.parent{
+    width: 550px;
+    height: 310px;
+    background-color: hotpink;
+    display: flex;
+}
+.col{
+    width: 50px;
+    height: 200px;
+    padding: 30px;
+}
+.col1{
+    background-color: lawngreen;
+    flex: 1;
+}
+.col2{
+    background-color: rgb(21, 207, 231);
+    flex: 5;
+}
+.col3{
+    background-color: rgb(60, 47, 180);
+    flex: 1;
+}
+.col4{
+    background-color: rgb(175, 42, 64);
+    flex: 3;
+}

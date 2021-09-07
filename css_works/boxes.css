@@ -1,0 +1,159 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.box1{
+    background-color: rgb(92, 100, 97);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+   margin-left: 372px;
+}
+.box2{
+    background-color: rgb(155, 156, 75);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box3{
+    background-color: rgb(179, 18, 18);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box4{
+    background-color: rgb(18, 39, 133);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box5{
+    background-color: rgb(12, 202, 53);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+   margin-right: 300px;
+}
+.box6{
+    background-color: rgb(85, 70, 3);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+   margin-left: 220px;
+}
+.box7{
+    background-color: rgb(241, 33, 214);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box8{
+    background-color: rgb(80, 142, 212);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box9{
+    background-color: rgb(40, 208, 238);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box10{
+    background-color: rgb(23, 134, 23);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box11{
+    background-color: rgb(97, 22, 22);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box12{
+    background-color: rgb(167, 228, 25);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+   margin-right: 100px;
+}
+.box13{
+    background-color: rgb(26, 73, 4);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+   margin-left: 67px;
+}
+.box14{
+    background-color: rgb(250, 210, 210);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box15{
+    background-color: rgb(110, 6, 141);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box16{
+    background-color: rgb(50, 241, 200);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box17{
+    background-color: rgb(123, 155, 97);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box18{
+    background-color: rgb(196, 124, 17);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box19{
+    background-color: rgb(34, 36, 15);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box20{
+    background-color: rgb(48, 79, 94);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}
+.box21{
+    background-color: rgb(211, 17, 43);
+    border: 1px solid black;
+    width: 10%;
+    height: 172px;
+   float: left; 
+}

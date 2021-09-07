@@ -1,0 +1,26 @@
+.parent{
+    width: 550px;
+    height: 320px;
+    background-color: turquoise;
+    display: flex;
+    /* justify-content:flex-start; */
+    align-items: center;
+    justify-content: space-around;
+}
+.col{
+    width: 100px;
+    height: 300px;
+    ;
+}
+.col1{
+    background-color: yellow;
+}
+.col2{
+    background-color: rgb(28, 63, 51);
+}
+.col3{
+    background-color: rgb(236, 43, 107);
+}
+.col4{
+    background-color: rgb(6, 214, 58);
+}

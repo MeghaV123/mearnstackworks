@@ -1,0 +1,15 @@
+div{
+    border: solid;
+    height: 200px;
+    width: 40%;
+}
+.box1{
+    background-color: lightcoral;
+    margin-top: 5%;
+    margin-left: 30%;
+}
+.box2{
+    background-color: lightskyblue;
+    margin-top: 3%;
+    margin-left: 30%;
+}
